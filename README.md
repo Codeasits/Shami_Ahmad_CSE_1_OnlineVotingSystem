@@ -16,6 +16,3 @@ Register/login, authenticate, cast vote
 https://github.com/user-attachments/assets/d5709425-0343-4055-b094-1e20610c8d15
 
 
-
-https://github.com/user-attachments/assets/b6cffc1d-5c18-46d5-bc96-3af25feb1db7
-
